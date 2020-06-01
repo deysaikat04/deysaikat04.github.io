@@ -38,7 +38,7 @@ body {
   }
   
   .terminalMenu {
-    width: 550px;
+    width: auto;
     box-sizing: border-box;
     height: 25px;
     background-color: #100f0f;
@@ -50,7 +50,7 @@ body {
   .terminalScreen {
     background-color: #151515;
     box-sizing: border-box;
-    width: 550px;
+    width: auto;
     height: 100px;
     margin: 0 auto;
     padding: 20px;
