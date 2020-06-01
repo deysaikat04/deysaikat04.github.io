@@ -51,7 +51,7 @@ body {
     background-color: #151515;
     box-sizing: border-box;
     width: auto;
-    height: 100px;
+    height: auto;
     margin: 0 auto;
     padding: 20px;
     border-bottom-left-radius: 5px;
