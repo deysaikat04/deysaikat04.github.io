@@ -7,7 +7,7 @@ function cardSwitch(id) {
             text = 'A FullStack Web Developer.';
             break;
         case 2:
-            text = 'By coding and hence developing applications, I want to make peoples life easier and smarter!';
+            text = 'By coding and hence developing applications, I want to make people life easier and smarter!';
             break;
         case 3:
             text = 'I\'ve started learning HTML, CSS, Boostrap few years back and now I\'m comfortable with React, Angular, Node, Express, MongoDB, MySQL!';
